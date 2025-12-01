@@ -4,7 +4,7 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ## Project Overview
 
-**aerie-time-utils** is a TypeScript library providing utility functions for working with dates and times in the Aerie ecosystem. It is published as `@nasa-jpl/aerie-time-utils` and is part of the NASA-AMMOS project.
+**plandev-time-utils** is a TypeScript library providing utility functions for working with dates and times in the PlanDev ecosystem. It is published as `@nasa-jpl/plandev-time-utils` and is part of the NASA-AMMOS project.
 
 The library handles various date formats including:
 - ISO Ordinal time (YYYY-DDDTHH:mm:ss.SSS)

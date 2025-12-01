@@ -1,9 +1,9 @@
 {
-  "name": "@nasa-jpl/aerie-time-utils",
+  "name": "@nasa-jpl/plandev-time-utils",
   "version": "1.0.2",
-  "title": "Aerie Time Utility",
-  "description": "Provides helper functions to process time values within the Aerie ecosystem",
-  "bugs": "https://github.com/NASA-AMMOS/aerie/issues",
+  "title": "PlanDev Time Utility",
+  "description": "Provides helper functions to process time values within the PlanDev ecosystem",
+  "bugs": "https://github.com/NASA-AMMOS/plandev/issues",
   "author": "NASA/JPL",
   "contributors": [
     "Ryan Goetz <ryan.r.goetz@jpl.nasa.gov>",
@@ -12,7 +12,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/NASA-AMMOS/aerie-time-utils.git"
+    "url": "https://github.com/NASA-AMMOS/plandev-time-utils.git"
   },
   "main": "dist/cjs/index.js",
   "module": "dist/esm/index.js",
@@ -40,7 +40,7 @@
     "reformat": "prettier --write ./src"
   },
   "keywords": [
-    "aerie",
+    "plandev",
     "time",
     "utils",
     "NASA",

@@ -1,4 +1,4 @@
-# aerie-time-utils
+# plandev-time-utils
 
 This repository provides a collection of utility functions for working with dates and times in JavaScript. The functions are designed to handle various date formats, convert between different time representations, and calculate durations.
 
@@ -6,7 +6,7 @@ This repository provides a collection of utility functions for working with date
 
 You can install this package using npm:
 ```bash
-npm install @nasa-jpl/aerie-time-utils
+npm install @nasa-jpl/plandev-time-utils
 ```
 
 ## Features
